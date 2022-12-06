@@ -1,0 +1,14 @@
+# FUCK_AKING_YATEEM 
+# TATA AKING ON FIRE 
+
+# TATA BYPSS FREE USE 
+
+rm -rf FUCK_AKING_YATEEM 
+
+
+
+git clone https://github.com/JUTTBRAND/FUCK_AKING_YATEEM
+
+cd FUCK_AKING_YATEEM
+
+python AKING.py
